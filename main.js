@@ -5,5 +5,5 @@ content.innerHTML="Hello Tuigun"
 
 
 let lol=document.querySelector(".lol")
-lol.innerHTML="bov"
+
 
